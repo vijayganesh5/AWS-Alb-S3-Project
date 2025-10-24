@@ -51,7 +51,7 @@ Application Load Balancer ⚖️
 
 ## 📁 Project Structure
 ```
-aws-alb-s3-project/
+AWS-ALB-S3-Project/
 ├── README.md
 └── Project-Steps.txt
 ```
